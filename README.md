@@ -1,9 +1,9 @@
 ### Hi there, I am Sebastian 👋
 - 🔭 I’m currently working on developing a website for my employer.
-<!--<div>
-<img src="https://img.shields.io/badge/My%20programming%20lenguages-blue">
-</div>
--->
+<link href="https://github.com/anuraghazra/github-readme-stats" rel="import"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-nuneze&layout=compact"/>
+
+
 <!--
 **seba-nuneze/seba-nuneze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
