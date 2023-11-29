@@ -1,3 +1,0 @@
-"scripts": {
-    "stats": "npx github-readme-stats --user seba-nuneze --theme default --hide=contribs,prs&issues",
-  }
