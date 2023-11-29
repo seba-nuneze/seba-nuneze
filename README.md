@@ -1,8 +1,9 @@
 ### Hi there, I am Sebastian 👋
-<div>
+- 🔭 I’m currently working on developing a website for my employer.
+<!--<div>
 <img src="https://img.shields.io/badge/My%20programming%20lenguages-blue">
 </div>
-
+-->
 <!--
 **seba-nuneze/seba-nuneze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
