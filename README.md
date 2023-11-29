@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on developing a website for my employer.
 <link href="https://github.com/anuraghazra/github-readme-stats" rel="import"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seba-nuneze&layout=compact"/>
-<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=seba-nuneze&layout=compact"/>-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=seba_nuneze&layout=compact"/>
 
 
 <!--
