@@ -1,3 +1,3 @@
 "scripts": {
-    "stats": "npx github-readme-stats --user TU_NOMBRE_DE_USUARIO --theme default --hide=contribs,prs&issues",
+    "stats": "npx github-readme-stats --user seba-nuneze --theme default --hide=contribs,prs&issues",
   }
