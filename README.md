@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Sebastian 👋
 
 <!--
 **seba-nuneze/seba-nuneze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
